@@ -16,3 +16,9 @@
 <p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/ryel.maghanoy.7" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryell&" alt="Ryell" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryell&show_icons=true&locale=en&layout=compact" alt="Ryell" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
