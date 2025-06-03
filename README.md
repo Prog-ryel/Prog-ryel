@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ryel</h1>
-## this is ourwebsite 
+
 ```bash
 oursquad-three.vercel.app
 ```
